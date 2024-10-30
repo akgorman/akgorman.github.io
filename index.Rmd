@@ -6,7 +6,6 @@ output:
     toc_float: true
     theme: journal
 ---
-
 ![](https://i.etsystatic.com/31705700/r/il/3881b8/3590936458/il_1080xN.3590936458_6sca.jpg)
 
 ## Academics

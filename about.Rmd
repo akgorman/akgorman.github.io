@@ -1,0 +1,15 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+---
+
+![](Files/gradimage.jpg)
+
+I am originally from Maryland, just outside of Washington, DC. Having attended the University of Maryland before moving to NYC, I have lived on the East Coast my whole life. I am searching for career opportunities in epidemiology, biostatistics, and data analysis in cities along the East Coast. 
+
+Outside of school, I love yoga, trying new coffee shops, and going on long walks to explore New York City. I am always open to new cuisines! :) 
+

@@ -10,8 +10,6 @@ library(httr)
 library(jsonlite)
 library(plotly)
 library(flexdashboard)
-
-
 ```
 
 ```{r}

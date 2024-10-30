@@ -6,6 +6,18 @@ output:
     toc_float: true
     theme: journal
 ---
+## Academics
+I am a second-year Master of Public Health student at Columbia University, where I study Epidemiology with a Certificate in Applied Biostatistics. I am interested in infectious disease epidemiology and employing statistical methods to better understand disease spread and prevention. 
+
+My background preceding my studies at Columbia includes a BS in Public Health from The University of Maryland. Go Terps!
+
+I am currently a Teaching Assistant for Research Methods and Applications: Quantitative Foundations, a Core class for all first-year Columbia MPH students. Each week, I lead a lab discussing introductory epidemiology and biostatistics concepts. 
+
+
+## Career 
+I am interested in a career in the fields of infectious disease, vaccine development, and epidemiologic/biostatistical research within the biotechnology field. Additionally, I am passionate about using quantitative methods and real-world evidence to inform decision making in pharmaceutical development.
+
+I spent this past summer in Cambridge, MA, as an Infectious Disease Epidemiology Intern at Moderna. There, I performed epidemiologic analysis and disease surveillance, as well as wrote an early clinical development study protocol for the Respiratory Vaccines team. I strengthened my data and statistical analysis, literature review, and scientific writing skills. 
 
 ## My Resume
 [Click here to view my resume for my full career and academic experiences](Files/GormanResume092024.pdf)

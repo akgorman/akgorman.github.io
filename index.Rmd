@@ -9,6 +9,8 @@ output:
 
 # Annie Gorman: My Website
 
+![](https://i.etsystatic.com/31705700/r/il/3881b8/3590936458/il_1080xN.3590936458_6sca.jpg)
+
 ## Academics
 Hello! My name is Annie Gorman and I am a second-year Master of Public Health student at Columbia University, where I study Epidemioligy with a Certificate in Applied Biostatistics. I am interested in infectious disease epidemiology and employing statistical methods to better understand disease spread and prevention. 
 

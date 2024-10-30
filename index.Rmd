@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+    theme: cerulean
 ---
 
 # Annie Gorman: My Website
@@ -27,4 +28,3 @@ Please head over to my [resume page]() for more specific information detailing m
 Please feel free to reach out via email or LinkedIn, and please check out my GitHub repositories if you are interested. 
 
 * [LinkedIn](https://www.linkedin.com/in/annie-gorman-216a47257)
-* [Email]()

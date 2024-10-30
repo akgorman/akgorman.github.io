@@ -12,6 +12,4 @@ output:
 Hello! My name is Annie Gorman and I am an MPH Epidemiology student at Columbia University with a Certificate in Applied Biostatistics. Head over to my Experience/Resume to learn more about my academic and professional background!
 
 ## Let's connect
-Please feel free to reach out via email or LinkedIn, and please check out my GitHub repositories if you are interested. 
-
-* [LinkedIn](https://www.linkedin.com/in/annie-gorman-216a47257)
+Please feel free to reach out via email or LinkedIn using the buttons on the top left, and please check out my GitHub repositories if you are interested. 

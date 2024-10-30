@@ -8,7 +8,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<akg2197@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<akgorman>/
+      href: http://github.com/akgorman/
 output:
   html_document:
     theme: cerulean

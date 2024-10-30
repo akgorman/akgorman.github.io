@@ -1,19 +1,19 @@
 ---
-title: "plotly.rmd"
-author: "Annie Gorman"
-date: "2024-10-30"
-output: html_document:
-  toc: true
-  toc_float: true
+title: "dashboard"
+output::flex_dashboard:
+  orientation: columns
+  vertical_layout: fill
 ---
-
-## Loading libraries 
 ```{r}
 library(tidyverse)
-library(p8105.datasets)
+library(httr)
+library(jsonlite)
 library(plotly)
+library(flexdashboard)
 ```
+
 ```{r}
 library(p8105.datasets)
 data("instacart")
 ```
+

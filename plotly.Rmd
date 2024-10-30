@@ -4,6 +4,11 @@ output::flex_dashboard:
   orientation: columns
   vertical_layout: fill
 ---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
 ```{r}
 library(tidyverse)
 library(httr)
@@ -14,6 +19,7 @@ library(flexdashboard)
 
 ```{r}
 library(p8105.datasets)
-data("instacart")
+data("instacart") 
+  
 ```
 

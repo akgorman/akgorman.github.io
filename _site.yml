@@ -7,6 +7,8 @@ navbar:
       href: about.html
     - text: "Experience and Resume" 
       href: experienceresume.html
+    - text: "Instacart Data Plots" 
+      href: plotly.html
     - icon: fa-envelope fa-lg
       href: mailto:<akg2197@cumc.columbia.edu>
     - icon: fa-github fa-lg

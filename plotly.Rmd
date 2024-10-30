@@ -13,6 +13,7 @@ library(tidyverse)
 library(p8105.datasets)
 library(plotly)
 ```
-
 ```{r}
-data()
+library(p8105.datasets)
+data("instacart")
+```

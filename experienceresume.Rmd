@@ -1,11 +1,12 @@
 ---
-title: "experienceresume"
+title: "Experience and Resume"
 author: "Annie Gorman"
-date: "2024-10-30"
-output: html_document:
+output: 
   html_document:
     toc: true
     toc_float: true
     theme: journal
 ---
 
+## My Resume
+[Click here to view my resume for my full career and academic experiences](Files/GormanResume092024.pdf)

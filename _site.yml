@@ -11,5 +11,5 @@ navbar:
       href: http://github.com/akgorman/
 output:
   html_document:
-    theme: cerulean
+    theme: journal
     

@@ -62,5 +62,17 @@ instacart_filtered |>
 ```
 
 ### Chart C
-
-
+```{r}
+instacart_filtered |>
+  mutate(text_label = str_c("Days Since Prior Order: ", days_since_prior_order, 
+                             "<br>Order Sequence Number: ", order_number, 
+                             "<br>Order Hour of Day: ", order_hour_of_day)) |> 
+  plot_ly(
+    x = ~days_since_prior_order, y = ~order_number, type = "scatter", mode = "markers", color = ~order_hour_of_day, text = ~text_label, alpha = 0.5
+  ) |>
+  layout(
+    title = "User Order Number by Number of Days Since Prior Instacart Order",
+    xaxis = list(title = "Days Since Prior Order"),
+    yaxis = list(title = "Order Sequence Number")
+  )
+```

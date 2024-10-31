@@ -60,7 +60,7 @@ instacart_filtered |>
   plot_ly(x = ~aisle, y = ~n, color = ~aisle, type = "bar", colors = "viridis") |>
   layout(title = "Order Counts by Aisle")
 ```
-Column {data-width=200}
+Column {data-width=250}
 -----------------------------------------------------------------------
 ### Chart C
 

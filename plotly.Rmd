@@ -22,14 +22,15 @@ library(p8105.datasets)
 data("instacart") 
 ```
 
-## Filtering Instacart data only to include snacks
+## Filtering Instacart data only to include food, also taking a random sample of 10000 to decrease size and make this more feasible:
 ```{r}
 instacart_filtered <- instacart |>
   mutate(department_id = as.integer(department_id)) |>
   filter(
     !is.na(department_id), 
-    !department_id %in% c(17, 11, 18, 21)  
-  )
+    !department_id %in% c(17, 11, 18, 21)
+  ) |>
+  sample_n(size = 10000)
 ```
 
 Column {data-width=650}
@@ -62,7 +63,4 @@ instacart_filtered |>
 
 ### Chart C
 
-```{r}
-
-```
 

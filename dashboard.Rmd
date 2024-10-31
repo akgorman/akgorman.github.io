@@ -34,7 +34,7 @@ instacart_filtered <- instacart |>
   sample_n(size = 10000)
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart A
@@ -49,9 +49,8 @@ instacart_filtered |>
   )
 ```
 
-Column {data-width=350}
+Column {data-width=250}
 -----------------------------------------------------------------------
-
 ### Chart B
 
 ```{r}
@@ -61,7 +60,8 @@ instacart_filtered |>
   plot_ly(x = ~aisle, y = ~n, color = ~aisle, type = "bar", colors = "viridis") |>
   layout(title = "Order Counts by Aisle")
 ```
-
+Column {data-width=200}
+-----------------------------------------------------------------------
 ### Chart C
 
 ```{r}

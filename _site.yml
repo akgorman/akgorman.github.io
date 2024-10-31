@@ -7,7 +7,7 @@ navbar:
       href: about.html
     - text: "Experience and Resume" 
       href: experienceresume.html
-    - text: "Instacart Data Plot Dashboard"
+    - text: "Instacart Data Plots"
       href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<akg2197@cumc.columbia.edu>
